@@ -1,0 +1,11 @@
+fastapi==0.85.0
+pydantic==1.10.2
+uvicorn==0.17.0
+sqlalchemy 
+psycopg2
+inflect
+passlib[bcrypt]
+fastapi-jwt-auth[asymmetric]
+pydantic[dotenv]
+pydantic[email]
+alembic
